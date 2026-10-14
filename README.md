@@ -3,7 +3,7 @@
 |対象|名称|
 |----|----|
 |トークンに相当する文字列（ほぼ形態素に相当）|Word|
-|トークンに相当する文字列のうちNamaed entityに相当するもの|Named entity / Entity|
+|トークンに相当する文字列のうちNamed entityに相当するもの|Named entity / Entity|
 |NERによりEntityに付与されたラベル|NERラベル|
 |ユーザーがまとめたEntityの並び|コンパウンド|
 |コンパウンドに付与するラベル|クラスラベル|
