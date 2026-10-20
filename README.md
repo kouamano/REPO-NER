@@ -4,7 +4,7 @@ PMC-NER https://github.com/kouamano/PMC-NER は、構造化文章からコンテ
 まず、PDFから適切にコンテンツテキストを取り出す必要があるが、抽出後は基本的に PMC-NERと同じである。
 
 ## PDFからのテキスト抽出
-
+https://github.com/kouamano/REPO-NER/blob/main/%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E6%8A%BD%E5%87%BA.md
 
 ## 名称定義
 |対象|名称|
