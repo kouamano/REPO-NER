@@ -3,6 +3,8 @@
 PMC-NER https://github.com/kouamano/PMC-NER は、構造化文章からコンテンツテキスト部分を抜き出してNER処理するが、REPO-NERはPDF文章を対象とする。
 まず、PDFから適切にコンテンツテキストを取り出す必要があるが、抽出後は基本的に PMC-NERと同じである。
 
+また、NERの精度向上のため、一旦プログラムにNER判定させた結果を人がチェックし、必要に応じて修正した学習用（正解）データも作成する。
+
 ## PDFからのテキスト抽出
 まず、テキストおよびメタデータ（テキストブロック位置）を抽出する。
 https://github.com/kouamano/REPO-NER/blob/main/%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E6%8A%BD%E5%87%BA.md
