@@ -12,6 +12,9 @@ https://github.com/kouamano/REPO-NER/blob/main/%E3%83%86%E3%82%AD%E3%82%B9%E3%83
 次にメタデータをもとにテキストブロックを再構成する。
 https://github.com/kouamano/REPO-NER/blob/main/textblock.nb
 
+場合によってはオブジェクトブロック情報も参考にした方が良いかもしれない。
+https://github.com/kouamano/REPO-NER/blob/main/objblock.nb
+
 ## 名称定義
 |対象|名称|
 |----|----|
