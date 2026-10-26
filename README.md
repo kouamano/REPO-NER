@@ -15,6 +15,8 @@ https://github.com/kouamano/REPO-NER/blob/main/textblock.nb
 場合によってはオブジェクトブロック情報も参考にした方が良いかもしれない。
 https://github.com/kouamano/REPO-NER/blob/main/objblock.nb
 
+ツールは https://github.com/kouamano/utility/tree/master/text_op/ 配下に作成する。
+
 ## 必要なテキストブロックの判定
 1. ドキュメント全体を使い、上部・下部マージンを推測
 2. oddページ、evenページごとに、左・右マージンを推測
@@ -26,8 +28,6 @@ https://github.com/kouamano/REPO-NER/blob/main/objblock.nb
         1. テキストブロックを検出、ブロックに位置情報を付加して記録
         2. 水平方向にブロックをソート
         3. ブロック内テキスト抽出
-
-ツールは https://github.com/kouamano/utility/tree/master/text_op/ 配下に作成する。
 
 ## 名称定義
 |対象|名称|
