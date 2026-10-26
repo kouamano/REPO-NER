@@ -15,7 +15,9 @@ https://github.com/kouamano/REPO-NER/blob/main/textblock.nb
 場合によってはオブジェクトブロック情報も参考にした方が良いかもしれない。
 https://github.com/kouamano/REPO-NER/blob/main/objblock.nb
 
-ツールは https://github.com/kouamano/utility/tree/master/text_op/ 配下に作成する。
+ツール類は複数のリポジトリに跨る：
+- https://github.com/kouamano/utility/tree/master/text_op/
+- https://github.com/kouamano/SCRIPT_Mathematica
 
 ## 必要なテキストブロックの判定
 1. ドキュメント全体を使い、上部・下部マージンを推測
