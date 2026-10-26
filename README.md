@@ -27,6 +27,8 @@ https://github.com/kouamano/REPO-NER/blob/main/objblock.nb
         2. 水平方向にブロックをソート
         3. ブロック内テキスト抽出
 
+ツールは https://github.com/kouamano/utility/tree/master/text_op/ 配下に作成する。
+
 ## 名称定義
 |対象|名称|
 |----|----|
