@@ -30,6 +30,8 @@ https://github.com/kouamano/REPO-NER/blob/main/objblock.nb
         1. テキストブロックを検出、ブロックに位置情報を付加して記録
         3. ブロック内テキスト抽出
 
+スクリプト: textblock.nb
+
 ## 名称定義
 |対象|名称|
 |----|----|
